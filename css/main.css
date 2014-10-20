@@ -113,10 +113,6 @@ nav a:hover, nav a:focus {
 	color: #00E;
 }
 
-.container-fluid {
-	padding: 0;
-}
-
 @media screen and (max-width: 992px) {
 	body {
 		background-image: none;
